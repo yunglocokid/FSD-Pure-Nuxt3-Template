@@ -23,7 +23,7 @@
 
 ### UNIX
 ```bash
-rm -rf .\app\README.md .\entities\README.md .\features\README.md .\pages\README.md .\shared\README.md .\widgets\README.md
+rm -rf app/README.md entities/README.md features/README.md pages/README.md shared/README.md widgets/README.md
 ```
 
 ### WINDOWS
