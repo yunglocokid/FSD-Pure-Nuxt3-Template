@@ -19,6 +19,24 @@
 | server   | Nuxt Server Routes                                                    |
 
 
+## Remove junk README.md files
+
+### UNIX
+```bash
+rm -rf .\app\README.md .\entities\README.md .\features\README.md .\pages\README.md .\shared\README.md .\widgets\README.md
+```
+
+### WINDOWS
+```bash
+del .\app\README.md 
+del .\entities\README.md 
+del .\features\README.md 
+del .\pages\README.md 
+del .\shared\README.md 
+del .\widgets\README.md
+```
+
+
 ## Setup
 
 Make sure to install the dependencies:
